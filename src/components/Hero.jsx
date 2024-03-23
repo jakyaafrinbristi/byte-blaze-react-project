@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
-    <div>
+    
       <div className="hero -mt-16">
         <div className="hero-content text-center">
           <div className="max-w-md">
@@ -28,7 +28,7 @@ const Hero = () => {
         </div>
       </div>
 
-    </div>
+    
   );
 };
 
